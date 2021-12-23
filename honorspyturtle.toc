@@ -1,0 +1,16 @@
+## Interface: 11200
+## Title: HonorSpyTurtle
+## Notes: Records PvP standings of all players for turtle wow
+## Author: kakysha, contributors: Mistaboom and Moxie and syli
+## OptionalDeps: Ace2
+## Version: 3
+## X-Category: Battlegrounds/PvP
+## SavedVariables: HonorSpyDB
+
+Libs\embeds.xml
+
+localization.lua
+
+honorspy.lua
+standings.lua
+export.lua
