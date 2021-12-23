@@ -1,3 +1,6 @@
+### DISCLAIMER ###
+I did not create this addon, nor adjusted the version for HonorSpy. The Turtle version was made by someone who didn't have a GitHub account and just distributed the addon through Discord. To prevent it getting lost, I'm hosting it on my GitHub.
+
 ### Turtle WoW
 This addon was adapted to the Turtle WOW honor system changes. It is only accurate on turtle wow.
 
